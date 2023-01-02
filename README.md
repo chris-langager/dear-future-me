@@ -1,6 +1,7 @@
 # Dear Future Me
 
-A simple app to send messages to your future self. The goal is to build something "real" to learn some new web technologies.
+A simple app to send messages to your future self.
+I wanted to build something "real" to learn some new web technologies.
 
 ## Tech used
 
